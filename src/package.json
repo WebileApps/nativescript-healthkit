@@ -1,6 +1,6 @@
 {
 	"name": "@webileapps/nativescript-healthkit",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "An iOS nativescript plugin to get HealthKit data.",
 	"main": "healthkit",
 	"typings": "index.d.ts",

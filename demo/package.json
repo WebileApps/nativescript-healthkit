@@ -2,10 +2,10 @@
   "nativescript": {
     "id": "org.nativescript.demo",
     "tns-android": {
-      "version": "5.2.1"
+      "version": "6.3.1"
     },
     "tns-ios": {
-      "version": "5.2.0"
+      "version": "6.3.0"
     }
   },
   "description": "NativeScript Application",
@@ -14,11 +14,11 @@
   "dependencies": {
     "@webileapps/nativescript-healthkit": "file:../src",
     "nativescript-theme-core": "~1.0.4",
-    "tns-core-modules": "~5.2.0"
+    "tns-core-modules": "~6.3.0"
   },
   "devDependencies": {
-    "nativescript-dev-typescript": "~0.8.0",
-    "nativescript-dev-webpack": "~0.20.0"
+    "nativescript-dev-webpack": "~1.4.0",
+    "typescript": "3.4.5"
   },
   "gitHead": "f548ec926e75201ab1b7c4a3a7ceefe7a4db15af",
   "readme": "NativeScript Application"
