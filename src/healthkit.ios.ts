@@ -36,7 +36,7 @@ export function getHealthDataSinceLastSync() : Promise<any> {
 }
 
 export function isHealthDataAvailable() : boolean {
-    return HKHealthStore.isHealthDataAvailable;
+    return HKHealthStore.isHealthDataAvailable();
 }
 
 export function getLastSyncedAt() : Date {
